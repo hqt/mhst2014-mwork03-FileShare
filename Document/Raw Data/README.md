@@ -1,0 +1,1 @@
+﻿Dữ liệu thô dùng cho các tài liệu khác.
